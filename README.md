@@ -1,7 +1,7 @@
 # hulu-webpage-clone-main 
 
 
-Hulu webpage built with HTML, CSS, JS.
+Hulu webpage built with HTML, CSS, JS. </br>
 #FEATURES: 
 
 :collision: HTML5 Semantic Coding </br>
