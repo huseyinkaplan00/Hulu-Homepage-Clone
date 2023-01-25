@@ -2,7 +2,7 @@
 
 
 Hulu webpage built with HTML, CSS, JS. </br>
-#FEATURES: 
+↪ FEATURES: 
 
 :collision: HTML5 Semantic Coding </br>
 :collision: Fully Responsive Mobile First Design  </br>
