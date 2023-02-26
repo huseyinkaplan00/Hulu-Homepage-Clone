@@ -1,12 +1,38 @@
-# hulu-webpage-clone-main 
+# Table of contents
 
+  - [Description](#description)
+  - [Built with](#built-with) 
+  - [Links](#links)
+  - [Screenshots](#screenshot)
+  
+## Description
 
-Hulu webpage built with HTML, CSS, JS. </br>
+Hulu homepage clone 
 
-↪ FEATURES: 
+## Built with
+- Fully Responsive, Mobile-first workflow
+- Semantic HTML5 markup
+- CSS3
+- Vanilla JavaScript
+- Flexbox, Grid
 
-:collision: HTML5 Semantic Coding </br>
-:collision: Fully Responsive Mobile First Design  </br>
-:collision: Flexbox, grid and more...  </br>
-
+## Links
 🌍Live At : https://huseyinkaplan00.github.io/Hulu-Webpage-Clone/
+
+## Screenshot
+
+<h5>  View Of Desktop Version </h5>
+<img href="#" style="width:50%" src="https://github.com/huseyinkaplan00/Hulu-Webpage-Clone/blob/main/img/ssDesktop.png">
+<h5>  View Of Mobile Version </h5>
+<img href="#" style="width:50%" src="https://github.com/huseyinkaplan00/Hulu-Webpage-Clone/blob/main/img/ssMobile.png">
+
+
+
+
+
+
+
+
+
+
+
