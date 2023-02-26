@@ -23,7 +23,9 @@ Hulu homepage clone
 
 <h5>  View Of Desktop Version </h5>
 <img href="#" style="width:50%" src="https://github.com/huseyinkaplan00/Hulu-Webpage-Clone/blob/main/img/ssDesktop.png">
+<br />
 <h5>  View Of Mobile Version </h5>
+<br />
 <img href="#" style="width:50%" src="https://github.com/huseyinkaplan00/Hulu-Webpage-Clone/blob/main/img/ssMobile.png">
 
 
