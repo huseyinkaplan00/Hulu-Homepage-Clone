@@ -17,7 +17,7 @@ Hulu homepage clone
 - Flexbox, Grid
 
 ## Links
-🌍Live At : https://huseyinkaplan00.github.io/Hulu-Webpage-Clone/
+🌍Live At : https://huseyinkaplan00.github.io/Hulu-Homepage-Clone/
 
 ## Screenshot
 
